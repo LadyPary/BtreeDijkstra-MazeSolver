@@ -35,7 +35,9 @@ This is a maze solver program which is implemented using the Dijkstra's shortest
 
  1. Number of rows and columns of your maze
  2. Your maze such that:
+			
 			⛔:  0 means a dead end.
+			
 			⛏️: Positive numbers indicate the difficulty of that path.
 
 #### Output:
