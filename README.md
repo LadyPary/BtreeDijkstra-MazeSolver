@@ -2,7 +2,7 @@
 **An Implementation of Dijkstra's Shortest Path Algorithm Using Btree**
 
   
-![algorithm demo](Puzzle_Game.gif)
+![algorithm demo](Btree-Dijkstra.gif)
 
 ##  Table of Contents
 
