@@ -22,7 +22,7 @@
 ##  About The Program
 
 This is a maze solver program which is implemented using the Dijkstra's shortest path algorithm and Btree data structure for improving the efficiency.
-The Btree was implemented with a little help from [HERE](https://uxmankabir.wordpress.com/2017/05/08/cpp-program-to-perform-insertion-deletion-and-traversal-in-b-tree/)
+The Btree was implemented with a little help from [HERE](https://uxmankabir.wordpress.com/2017/05/08/cpp-program-to-perform-insertion-deletion-and-traversal-in-b-tree/).
 
 ###  Built With
 
